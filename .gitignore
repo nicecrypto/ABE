@@ -1,0 +1,16 @@
+1 # ignore the build files 
+2 build/* 
+3 bin/* 
+4 
+ 
+5 # ignore the gradle files 
+6 .gradle/* 
+7 
+ 
+8 # ignore the eclipse project files, user must use  
+9 # "gradle eclipse" command to transfer it to eclipse project 
+10 .classpath 
+11 .project 
+12 .settings/* 
+13 /bin/ 
+14 .metadata/*
